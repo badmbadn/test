@@ -5,12 +5,21 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:#fff;
     background-color: #999;}
-    
+
 .main {
     padding: 50px 100px;
     text-align: center;
     font-size: 30px;
     color: white;
     background-color: blanchedalmond;
+    font-family:sans-serif ;
+}
+
+.footer {
+    padding: 50px 100px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(214, 199, 199);
+    background-color: rgb(163, 156, 146);
     font-family:sans-serif ;
 }
