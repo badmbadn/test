@@ -4,5 +4,13 @@
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:#fff;
-    background-color: #999;
+    background-color: #999;}
+    
+.main {
+    padding: 50px 100px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: blanchedalmond;
+    font-family:sans-serif ;
 }
